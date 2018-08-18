@@ -3,3 +3,4 @@ I will provide with some crash course and quick functionalities of machine learn
 1. Numpy
 2. Matplotlib
 3. Pandas
+4. CSV Loading Using Python modules

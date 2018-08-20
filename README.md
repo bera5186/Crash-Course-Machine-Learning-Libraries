@@ -1,5 +1,5 @@
 # Crash-Course-Machine-Learning-Libraries
-I will provide with some crash course and quick functionalities of machine learning libraries.
+I will provide with some crash course and quick functionalities of machine learning libraries. May be it will help you. Anyone is free to contribute.
 1. Numpy
 2. Matplotlib
 3. Pandas
